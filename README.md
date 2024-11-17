@@ -1,4 +1,4 @@
-### EX:05 Course-Reservation-and-Exam-registration-systems
+# EX:05 Course-Reservation-and-Exam-registration-systems
 ## Date :25/10/2024
 ## NAME: PRAKASH C
 ## REGISTRATION NUMBER: 212223240122
